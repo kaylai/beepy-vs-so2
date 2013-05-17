@@ -1,0 +1,10 @@
+In file 25Mar.csv
+Scans 331 to 358 are backgrounds from 26Mar_bg.csv (in the 26Mar file they are scans 3 to 30).
+
+Scans used for the comparison with solar occultation are scans 30-100.
+Groups within those scans good for inverting are:
+30-40
+52-64
+77-81
+86-93
+97-100
